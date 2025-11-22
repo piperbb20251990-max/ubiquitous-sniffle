@@ -1,4 +1,4 @@
-Blair Andre Piper: Jekyll site CI
+run-name: Jekyll site CI
 
 on:
   push:
